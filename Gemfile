@@ -65,6 +65,6 @@ end
  # PostgreSQL database adapter
 gem 'pg'
 gem "font-awesome-sass" , "~>6.5.1"
-gem "devise", "~> 4.9"
+gem "devise", "~> 5.0"
 
 gem "stripe", "~> 13.4"
